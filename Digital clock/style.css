@@ -1,0 +1,31 @@
+body {
+    background-color: #212121;
+    color: rgb(212, 201, 201);
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+.clock {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: blueviolet;
+    width: 156px;
+    height: 42px;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+h2 {
+    margin: 15px;
+}
